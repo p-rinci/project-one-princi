@@ -26,6 +26,7 @@ a.b=ab implies angle if 0.
 - [X] Dot product
 - [X] Formula
 - [ ] Properties
+
 **also known as**
 1. scalar product
 2. inner product
@@ -52,11 +53,9 @@ print(np.dot(a, b))
 | The output is a vector. | The output is a scalar. |
 
 
-
-
 **MATHEMATICAL EXPRESSION**
 
-
 **The Cauchy-Schwarz Inequality**
+
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n
 a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
