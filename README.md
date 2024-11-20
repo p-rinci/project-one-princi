@@ -47,15 +47,16 @@ print(np.dot(a, b))
 > Helpful advice for doing things better or more easily.
 # Table
 | CROSS PRODUCT | DOT PRODUCT|
-| :--- | :---: |
-| The cross product is the product of the magnitude of the
-vector and the sine of the angle in which they subtend each
-other. |The dot product is the product of the magnitude of the
-vectors and the cos of the angle between them |
+| :--- | :--- |
+| The cross product is the product of the magnitude of the vector and the sine of the angle in which they subtend other. |The dot product is the product of the magnitude of thevectors and the cos of the angle between them |
 | The output is a vector. | The output is a scalar. |
 
 
+
+
 **MATHEMATICAL EXPRESSION**
+
+
 **The Cauchy-Schwarz Inequality**
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n
 a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
