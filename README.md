@@ -9,16 +9,16 @@ vectors point in the same direction.**
 vectors (pronounced "a dot b"):***
 *a.b=|a||b| cosθ*
 > This text has been copied from
-[PR](https://www.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/x786f2022:vectors-and-matrices/a/dot-products-mvc)
+[dot product article](https://www.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/x786f2022:vectors-and-matrices/a/dot-products-mvc)
 ~~This was a mistake~~
+> This text is give the knowlege about multivariable function specially dot product.
 Some important points:
 ```
 a.b=0 implies angle is 90.
 a.b=ab implies angle if 0.
 ```
 # Image:
-![Dot product of two
-vectors](https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/dot-product-of-vectors-1626103027.png)
+![Dot product of two vectors](https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/dot-product-of-vectors-1626103027.png)
 - When angle between a and b is 0 then a.b=|a||b|.
 * When angle between a and b is 90 then a.b=0.
 + When angle between a and b is 30 then a.b=|a||b|/2.
@@ -26,6 +26,11 @@ vectors](https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/dot-produ
 - [X] Dot product
 - [X] Formula
 - [ ] Properties
+**also known as**
+1. scalar product
+2. inner product
+3. projection product
+
 Dot product code[^1].
 [^1]: #Python Program illustrating dot product of two vectors
 #Importing numpy module
@@ -35,6 +40,7 @@ a = 5
 b = 7
 #Calculating dot product using dot()
 print(np.dot(a, b))
+
 > [!NOTE]
 > Dot and cross products are notsame
 > [!TIP]
