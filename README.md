@@ -9,9 +9,7 @@ vectors point in the same direction.**
 vectors (pronounced "a dot b"):***
 *a.b=|a||b| cosθ*
 > This text has been copied from
-[PR](https://www.khanacademy.org/math/multivariable-calculu
-s/thinking-about-multivariable-function/x786f2022:vectors-and
--matrices/a/dot-products-mvc)
+[PR](https://www.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/x786f2022:vectors-and-matrices/a/dot-products-mvc)
 ~~This was a mistake~~
 Some important points:
 ```
@@ -20,8 +18,7 @@ a.b=ab implies angle if 0.
 ```
 # Image:
 ![Dot product of two
-vectors](https://d138zd1ktt9iqe.cloudfront.net/media/seo_landi
-ng_files/dot-product-of-vectors-1626103027.png)
+vectors](https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/dot-product-of-vectors-1626103027.png)
 - When angle between a and b is 0 then a.b=|a||b|.
 * When angle between a and b is 90 then a.b=0.
 + When angle between a and b is 30 then a.b=|a||b|/2.
