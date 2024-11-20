@@ -40,6 +40,7 @@ print(np.dot(a, b))
 
 > [!NOTE]
 > Dot and cross products are notsame
+
 > [!TIP]
 > Helpful advice for doing things better or more easily.
 # Table
