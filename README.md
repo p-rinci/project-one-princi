@@ -1,15 +1,11 @@
-# PRINCI (2023UCP1601)
+# PRINCI MANTRI (2023UCP1601)
 ## TW Assignment 4
 ### Vector Dot Product
-**The dot product is a fundamental way we can combine two
-vectors. Intuitively, it tells us something about how much two
-vectors point in the same direction.**
+**The dot product is a fundamental way we can combine two vectors. Intuitively, it tells us something about how much two vectors point in the same direction.**
 
-***We write the dot product with a little dot between the two
-vectors (pronounced "a dot b"):***
+***We write the dot product with a little dot between the two vectors (pronounced "a dot b"):***
 *a.b=|a||b| cosθ*
-> This text has been copied from
-[dot product article](https://www.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/x786f2022:vectors-and-matrices/a/dot-products-mvc)
+> This text has been copied from [dot product article](https://www.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/x786f2022:vectors-and-matrices/a/dot-products-mvc)
 ~~This was a mistake~~
 > This text is give the knowlege about multivariable function specially dot product.
 Some important points:
@@ -27,7 +23,7 @@ a.b=ab implies angle if 0.
 - [X] Formula
 - [ ] Properties
 
-**also known as**
+**Dot product also known as**
 1. scalar product
 2. inner product
 3. projection product
@@ -57,5 +53,4 @@ print(np.dot(a, b))
 
 **The Cauchy-Schwarz Inequality**
 
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n
-a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
